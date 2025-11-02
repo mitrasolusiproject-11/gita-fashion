@@ -1,0 +1,17 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" fill="#2D3748" stroke="#D4AF37" stroke-width="3"/>
+  
+  <!-- GF Text -->
+  <text x="100" y="85" font-family="serif" font-size="48" font-weight="bold" text-anchor="middle" fill="#F7DC6F">GF</text>
+  
+  <!-- Fashion Silhouette -->
+  <path d="M100 45 C95 45, 90 50, 90 55 L90 75 C88 75, 85 78, 85 82 L85 95 C85 98, 88 100, 90 100 L110 100 C112 100, 115 98, 115 95 L115 82 C115 78, 112 75, 110 75 L110 55 C110 50, 105 45, 100 45 Z" fill="#F7DC6F" opacity="0.8"/>
+  
+  <!-- Decorative Elements -->
+  <path d="M50 130 Q60 125, 70 130 Q80 135, 90 130" stroke="#D4AF37" stroke-width="2" fill="none"/>
+  <path d="M110 130 Q120 135, 130 130 Q140 125, 150 130" stroke="#D4AF37" stroke-width="2" fill="none"/>
+  
+  <!-- Gita Fashion Text -->
+  <text x="100" y="160" font-family="serif" font-size="16" font-style="italic" text-anchor="middle" fill="#D4AF37">Gita Fashion</text>
+</svg>

@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.env
+.env.local
+.env.production
+sqlite.db
+*.log
+.DS_Store
+Thumbs.db
+dist/
+build/
+package-lock.json
+.turbo/
+coverage/
+*.tsbuildinfo
+.git/objects/*/tmp_*
